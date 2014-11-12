@@ -1,0 +1,33 @@
+{
+  "name": "as-ms",
+  "version": "0.0.0",
+  "description": "Write readable code when you need ms values.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "moment": "^2.8.3"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.0.1"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timlesallen/node-as-ms.git"
+  },
+  "keywords": [
+    "milliseconds",
+    "moment"
+  ],
+  "author": "Timothy Leslie Allen <allen.timothy.email@gmail.com> (https://github.com/timlesallen)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timlesallen/node-as-ms/issues"
+  },
+  "homepage": "https://github.com/timlesallen/node-as-ms"
+}
