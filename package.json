@@ -1,6 +1,6 @@
 {
   "name": "as-ms",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Write readable code when you need ms values.",
   "main": "index.js",
   "directories": {
